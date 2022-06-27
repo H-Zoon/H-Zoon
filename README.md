@@ -8,13 +8,17 @@ AR CORE와 안드로이드 공부중인 최현준 입니다.<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align=“center”> Techs that I've used main </p>
+<p align="center"> Techs that I've used main </p>
 
-<p align=“center”>
+<p align="center" display="inline-block">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+</p>
 
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
-![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) 
+<br>
+
+<div align=center>
 
 ![H-Zoon github stats](https://github-readme-stats.vercel.app/api?username=H-Zoon&show_icons=true)
 
-</p>
